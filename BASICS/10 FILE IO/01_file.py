@@ -1,0 +1,5 @@
+f = open('D:\\2024\\for python\\10 FILE IO\\sample.txt')
+data = f.read()
+line = f.readline()
+print(data)
+f.close()
